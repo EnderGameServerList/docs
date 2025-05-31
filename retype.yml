@@ -1,0 +1,33 @@
+input: ./src
+output: .retype
+
+url: https://docs.server-list.games
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: EnderGameServerList
+  label: Docs
+  logo: static/logo.png
+
+favicon: static/logo.png
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. [EnderGameServerList](https://github.com/EnderGameServerList) All rights reserved."
+  links:
+    - text: Homepage
+      link: https://github.com/EnderGameServerList
+    - text: License
+      link: https://github.com/EnderGameServerList/docs/blob/main/LICENSE
+
+edit:
+  repo: "https://github.com/EnderGameServerList/docs"
+  label: Edit on GitHub
+
+editor:
+  enabled: false
+
+explude:
+  - example.md
