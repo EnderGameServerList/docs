@@ -1,4 +1,4 @@
-input: ./src
+input: .
 output: .retype
 
 url: https://docs.server-list.games
