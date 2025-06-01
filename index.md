@@ -1,7 +1,7 @@
 ---
 icon: home
 date: 2025-06-01
-description: Übersicht über die Dokumentation und API-Endpunkte
+description: Lorem ipsum
 
 author:
   - name: Endkind
