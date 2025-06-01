@@ -17,9 +17,9 @@ favicon: static/logo.png
 footer:
   copyright: "&copy; Copyright {{ year }}. [EnderGameServerList](https://github.com/EnderGameServerList) All rights reserved."
   links:
-    - text: GitHub Organization
+    - text: ":icon-organization: GitHub Organization"
       link: https://github.com/EnderGameServerList
-    - text: License
+    - text: ":icon-law: License"
       link: https://github.com/EnderGameServerList/docs/blob/main/LICENSE
 
 edit:
